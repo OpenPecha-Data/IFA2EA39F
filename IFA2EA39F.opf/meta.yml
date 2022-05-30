@@ -1,0 +1,25 @@
+id: IFA2EA39F
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T22:13:16.053843'
+last_modified: '2022-05-30T22:13:16.053849'
+parser: null
+source_metadata:
+  title: Khenmo Rigdzin Chödrön Series
+  language: bo
+  description: 'Texts by Khenmo Rigdzin Chödrön (mkhan mo rig ''dzin chos sgron) of
+    Larung Gar:'
+  volume:
+    f5B3C:
+      title: An Exhortation to Tibetans
+      base_file: f5B3C.txt
+      order: 1
+      parent: Advice
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
